@@ -5,3 +5,4 @@
 | **<a href="https://github.com/vaylor27/hammerspace">Hammerspace:** <br><img src="https://aschey.tech/tokei/github/vaylor27/hammerspace?category=code" /> <img src="https://img.shields.io/github/stars/vaylor27/hammerspace" /></a>  
 
 | **<a href="https://github.com/vaylor27/mod-locking">Mod Locking:** <br><img src="https://aschey.tech/tokei/github/vaylor27/mod-locking?category=code" /> <img src="https://img.shields.io/github/stars/vaylor27/mod-locking" /></a>  
+| **<a href="https://github.com/vaylor27/better-spawner">Better Spawner:** <br><img src="https://aschey.tech/tokei/github/vaylor27/better-spawner?category=code" /> <img src="https://img.shields.io/github/stars/vaylor27/better-spawner" /></a>  
