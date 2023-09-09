@@ -8,4 +8,4 @@
 | **<a href="https://github.com/vaylor27/better-spawner">Better Spawner:** <br><img src="https://aschey.tech/tokei/github/vaylor27/better-spawner?category=code" /> <img src="https://img.shields.io/github/stars/vaylor27/better-spawner" /></a>  
 
 
-| **<a href="https://github.com/vaylor27/helium-lang">Helium:** <br><img src="https://aschey.tech/tokei/github/vaylor27/helium-lan g?category=code" /> <img src="https://img.shields.io/github/stars/vaylor27/helium-lang" /></a>  
+| **<a href="https://github.com/vaylor27/helium-lang">Helium:** <br><img src="https://aschey.tech/tokei/github/vaylor27/helium-lang?category=code" /> <img src="https://img.shields.io/github/stars/vaylor27/helium-lang" /></a>  
