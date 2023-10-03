@@ -9,3 +9,6 @@
 
 
 | **<a href="https://github.com/vaylor27/helium-lang">Helium:** <br><img src="https://aschey.tech/tokei/github/vaylor27/helium-lang?category=code" /> <img src="https://img.shields.io/github/stars/vaylor27/helium-lang" /></a>  
+
+
+| **<a href="https://github.com/Dumb-Code/ProjectNublar">ProjectNublar:** <br><img src="https://aschey.tech/tokei/github/Dumb-Code/ProjectNublar?category=code" /> <img src="https://img.shields.io/github/stars/Dumb-Code/ProjectNublar" /></a>  
